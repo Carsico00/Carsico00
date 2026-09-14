@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Carmen
+# 👋 Hey, I'm Arsico
 
 ### `Software Engineer Lead` · `Frontend Engineer` · `AI Builder`
 
