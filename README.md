@@ -1,170 +1,372 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:F7D154,50:2E8B57,100:1B4332&text=CARSICO00&fontSize=65&fontColor=ffffff&animation=fadeIn"/>
+# 👋 Hey, I'm Carmen
 
-<br>
+### `Software Engineer Lead` · `Frontend Engineer` · `AI Builder`
 
-<img width="850" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<p>
+  <a href="https://github.com/Carsico00">
+    <img src="https://img.shields.io/badge/GitHub-Carsico00-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/React-Specialist-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-Expertise-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Builder-8A2BE2?style=for-the-badge&logo=claude&logoColor=white" />
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-# Hi there, I'm Carsico00 👋
-
-### Software Engineer Lead | Fintech & Banking Specialist
-
-Building scalable software, enterprise architectures and AI-powered solutions.
-
-</div>
-
----
-
-<div align="center">
-
-### ⚔️ About Me
-
-</div>
-
-- 🏦 Software Engineer Lead specialized in **Fintech & Banking**
-- ⚛️ Expert in **React, React Native and Angular ecosystems**
-- 🏛️ Passionate about **Hexagonal Architecture**
-- 🤖 Working with **AI Agents, Prompt Engineering and AI Orchestration**
-- 🌍 Operating in international environments with continuous English improvement
-- 📚 Learning something new every single day
-
----
-
-<div align="center">
-
-<img width="90" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Triforce.svg"/>
-
-</div>
-
-## 🚀 Tech Stack
-
-### Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frontend & Mobile
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### Architecture & AI
-
-![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal-Architecture-gold?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI-Agents-2E8B57?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-1B4332?style=for-the-badge)
-
----
-
-<div align="center">
-
-<img width="90" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Triforce.svg"/>
-
-</div>
-
-## 🌟 Professional Highlights
-
-### 🏛 Enterprise Architecture
-
-Designing scalable and maintainable enterprise systems using:
-
-- Hexagonal Architecture
-- Clean Architecture
-- Domain Driven Design
-- SOLID Principles
-
-### 🤖 AI Engineering
-
-Integrating AI capabilities directly into enterprise environments:
-
-- AI Agents
-- Prompt Engineering
-- AI Orchestration
-- React + AI ecosystems
-
-### 📈 Frontend Excellence
-
-Building modern applications with:
-
-- React
-- React Native
-- Angular
-- TypeScript
-- Advanced CSS Architecture
-
----
-
-<div align="center">
-
-## 📊 GitHub Statistics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carsico00&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carsico00&layout=compact&theme=tokyonight"/>
+<p>
+  <strong>I build interfaces, mobile applications and AI-powered products.</strong>
+  <br />
+  I care about architecture, developer experience and turning complex ideas into simple experiences.
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+## 🧠 About me
 
-## 🔥 Contribution Streak
+I'm a **Software Engineer Lead focused on frontend development**, with a strong focus on the React ecosystem.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Carsico00&theme=tokyonight"/>
+My main playground is:
 
-</div>
+**React · React Native · Expo · TypeScript · JavaScript**
 
----
+But I'm interested in much more than writing components.
 
-<div align="center">
+I enjoy thinking about **architecture, scalability, testing, developer experience and how AI can change the way we build software.**
 
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Carsico00&theme=tokyo-night"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="90" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Triforce.svg"/>
-
-</div>
-
-## 🎯 Current Focus
-
-```txt
-🏦 Fintech Platforms
-🤖 Enterprise AI Integration
-🏛 Hexagonal Architecture
-⚛ Advanced React Ecosystems
-📱 Mobile Engineering
-🌍 Continuous Learning
+```text
+Frontend Engineering
+        │
+        ├── React
+        ├── React Native
+        ├── Expo
+        ├── TypeScript
+        └── JavaScript
+              │
+              ▼
+        Architecture
+              │
+        ├── Scalable systems
+        ├── Component architecture
+        ├── State management
+        └── Testing
+              │
+              ▼
+             AI
+        ├── AI-assisted development
+        ├── LLM applications
+        ├── AI agents
+        └── AI-powered products
 ```
 
 ---
 
+## 🏆 Certifications
+
+### Anthropic · Claude
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-Certified%20Developer-111111?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-Certified%20Architect-111111?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+**Claude Certified Developer**
+
+Focused on building software with Claude and applying AI effectively throughout the development workflow.
+
+**Claude Certified Architect**
+
+Focused on designing AI-powered systems and thinking beyond simple prompt → response applications.
+
+> AI isn't just another tool in my stack.
+>
+> **I'm interested in how AI changes the way software is designed, built and maintained.**
+
+---
+
+# ⚛️ Frontend Engineering
+
+My strongest area is the **React ecosystem**.
+
+### Core
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,html,css,sass" />
+</p>
+
+### React ecosystem
+
+* ⚛️ React
+* 📱 React Native
+* 🚀 Expo
+* 🔷 TypeScript
+* 🟨 JavaScript
+* 🧠 Redux
+* 🧩 Context API
+* 🌐 REST APIs
+* 🧪 Jest
+* 🔬 Testing Library
+
+### Styling
+
+* CSS
+* Sass / SCSS
+* Responsive design
+* Component-based styling
+* Design systems
+
+---
+
+# 🏗️ Architecture
+
+I don't just want applications that **work**.
+
+I want applications that are:
+
+```text
+        ┌───────────────────┐
+        │    Understandable │
+        └─────────┬─────────┘
+                  │
+        ┌─────────▼─────────┐
+        │    Maintainable   │
+        └─────────┬─────────┘
+                  │
+        ┌─────────▼─────────┐
+        │      Scalable     │
+        └─────────┬─────────┘
+                  │
+        ┌─────────▼─────────┐
+        │      Testable     │
+        └─────────┬─────────┘
+                  │
+        ┌─────────▼─────────┐
+        │      Enjoyable    │
+        │    to develop     │
+        └───────────────────┘
+```
+
+I'm particularly interested in:
+
+* Component architecture
+* Feature-based architecture
+* Separation of concerns
+* State management
+* Reusable components
+* API integration
+* Error handling
+* Testing strategies
+* Performance
+* Developer experience
+
+---
+
+# 🤖 AI × Software Engineering
+
+This is where I'm currently pushing my development skills further.
+
+I'm interested in building software where **AI is part of the product itself**, not just a coding assistant.
+
+### Things I'm exploring
+
+```text
+LLMs
+ │
+ ├── AI Agents
+ │
+ ├── Tool Calling
+ │
+ ├── Structured Outputs
+ │
+ ├── Context Engineering
+ │
+ ├── RAG
+ │
+ ├── AI-powered UX
+ │
+ └── AI-assisted development
+```
+
+My goal is to combine:
+
+**strong frontend engineering + software architecture + AI**
+
+to build products that wouldn't have been practical a few years ago.
+
+---
+
+# 🚀 Things I'm building
+
+## 🏋️ GymPal
+
+A fitness application designed around the idea of having an **AI-powered training companion** rather than just another calorie tracker.
+
+### Stack
+
+`React Native` · `Expo` · `TypeScript` · `AI` · `LLMs`
+
+The goal is to combine:
+
+* Training routines
+* Progress tracking
+* Nutrition
+* AI-generated recommendations
+* Fitness context
+* Personalised coaching
+* AI interaction
+
+> **The idea:** your fitness app should understand your progress, not just store your numbers.
+
+---
+
+## 🎮 Personal experiments
+
+I also enjoy building things that are a little less conventional.
+
+From interactive web experiences to game-inspired projects, I like using development as a way to experiment with:
+
+* UI
+* Animation
+* Interaction
+* Game mechanics
+* Creative frontend
+* New technologies
+
+Because not every project needs to be a dashboard. 😄
+
+---
+
+# 🧪 How I like to build
+
+```text
+Idea
+ ↓
+Understand the problem
+ ↓
+Design the architecture
+ ↓
+Build the smallest useful version
+ ↓
+Test
+ ↓
+Improve
+ ↓
+Refactor
+ ↓
+Ship 🚀
+```
+
+I'm a big believer that **good engineering isn't about writing the most code.**
+
+It's about making the right decisions before and while writing it.
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,sass" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux" />
+</p>
+
+`React` · `React Native` · `Expo` · `Redux` · `Context API`
+
+### Testing
+
+`Jest` · `Testing Library`
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vite,figma,npm" />
+</p>
+
+### AI
+
+`Claude` · `LLMs` · `AI Agents` · `AI-assisted development`
+
+---
+
+# 📈 GitHub
+
 <div align="center">
 
-### ✨ Striving to learn something new and sharpen my skills every single day
+<img src="https://github-readme-stats.vercel.app/api?username=Carsico00&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" height="165" />
 
-<img width="120" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Triforce.svg"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carsico00&layout=compact&hide_border=true&theme=transparent" height="165" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:F7D154,50:2E8B57,100:1B4332"/>
+---
+
+# 🧩 Currently learning
+
+I'm constantly expanding beyond my comfort zone.
+
+```text
+Frontend
+████████████████████████████████████████  React / React Native
+
+Architecture
+██████████████████████████████████████░░  Software Architecture
+
+TypeScript
+██████████████████████████████████████░░  Advanced TypeScript
+
+AI
+████████████████████████████████████░░░░  AI Engineering
+
+Backend
+████████████████████████████░░░░░░░░░░░  Node / APIs
+
+Game Development
+██████████████████░░░░░░░░░░░░░░░░░░░░░░  C++ / Game Dev
+```
+
+---
+
+# 💭 A few things about me
+
+* ⚛️ React is probably my favourite place to be.
+* 📱 I enjoy building for both web and mobile.
+* 🤖 I'm fascinated by what happens when AI becomes part of the product.
+* 🏗️ I care about architecture as much as implementation.
+* 🧪 I believe testing is part of development, not an afterthought.
+* 🎮 I like experimenting with game development.
+* 🧠 I'm always learning something new.
+* ☕ And yes, sometimes the best architecture decision is simply `make it work first`.
+
+---
+
+# 📫 Let's connect
+
+<div align="center">
+
+<a href="https://github.com/Carsico00">
+<img src="https://img.shields.io/badge/GitHub-Carsico00-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Frontend · React · Mobile · Architecture · AI**
+
+</div>
+
+---
+
+<div align="center">
+
+### `Build. Learn. Break. Improve. Repeat.`
+
+<sub>Made with curiosity, TypeScript and probably too much coffee.</sub>
+
+</div>
+
